@@ -55,6 +55,7 @@ Provides a consolidated high-level overview of key business KPIs to support exec
 Screenshots of the Finance, Sales, Marketing, Supply Chain, and Executive views are available in the `Screenshots` folder.
 
 ##  Repository Structure
+```text
 Integrated-Business-Performance-Analytics/
 │
 ├── PowerBI/
@@ -68,6 +69,7 @@ Integrated-Business-Performance-Analytics/
 │   └── Executive_View.png
 │
 └── README.md
+```
 
 ## Key Outcome
 Built an integrated business intelligence solution that brings together multiple business functions into a single Power BI reporting environment, enabling interactive performance analysis and a consolidated view of organizational performance.
