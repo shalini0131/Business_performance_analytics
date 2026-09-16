@@ -78,3 +78,5 @@ Built an integrated business intelligence solution that brings together multiple
 
 **Data Analytics | Business Intelligence | Power BI Portfolio Project**
 
+## Power Bi File 
+## Download the .pbix file here (https://1drv.ms/u/c/7a7a3147752df354/IQAxr-P7qwxsTpMXRi_Xtt_YAXge4kqq9payk-Bo7XaQVgk?e=lqvuxZ)
